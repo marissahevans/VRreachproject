@@ -1,5 +1,5 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Sensorimotor confidence project in 3D using VR. 
 
-DO NOT LEAVE IT LIKE THIS!!!
+Offical copy started July 16th 2024 by Marissa
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Designed for VIVE HTC Focus 3 using Unity with Ultimate Trackers 
